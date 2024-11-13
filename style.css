@@ -12,15 +12,6 @@ body {
   background-color: #f4f4f4;
   color: #333;
 }
-
-/* Gaya khusus untuk perangkat dengan lebar maksimal 600px (ponsel) */
-@media only screen and (max-width: 600px) {
-  body {
-      font-size: 14px;
-      padding: 10px;
-  }
-}
-
 /* Header */
 .header {
   background-color: #333;
