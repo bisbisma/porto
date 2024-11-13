@@ -22,5 +22,3 @@ function resizeText() {
     }
 }
 
-window.addEventListener('load', resizeText);
-window.addEventListener('resize', resizeText);
